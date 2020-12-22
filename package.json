@@ -1,0 +1,19 @@
+{
+  "name": "projetodore",
+  "version": "1.0.0",
+  "description": "Aplicação de Suporte.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biamartinsro/ProjetoDore.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biamartinsro/ProjetoDore/issues"
+  },
+  "homepage": "https://github.com/biamartinsro/ProjetoDore#readme"
+}
